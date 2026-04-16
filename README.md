@@ -17,5 +17,8 @@ This project analyzes store sales data to understand how store size impacts perf
 - store_sales_analysis.ipynb → complete analysis
 - Stores.csv → dataset
 
+## Sample Visualization
+(Graph.png)
+
 ## Conclusion
 This project demonstrates how data analysis can help businesses optimize store performance and make better decisions.
