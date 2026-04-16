@@ -1,4 +1,4 @@
-# Store Sales Analysis
+# Store Sales Performance & Efficiency Analysis
 
 ## Overview
 This project analyzes store sales data to understand how store size impacts performance and efficiency.
