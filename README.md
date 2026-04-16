@@ -22,7 +22,7 @@ How does store size impact sales performance and efficiency?
 - Stores.csv → dataset
 
 ## Sample Visualization
-![Dashboard]([Graph_sales_area.png))
+![Dashboard][Graph_sales_area.png)
 
 ## Dashboard
 ![Dashboard](Salesdashboard.png)
