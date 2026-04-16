@@ -3,6 +3,9 @@
 ## Overview
 This project analyzes store sales data to understand how store size impacts performance and efficiency.
 
+## Business Problem
+How does store size impact sales performance and efficiency?
+
 ## Key Insights
 - Larger stores generally generate higher sales
 - Some smaller stores outperform larger ones in efficiency
