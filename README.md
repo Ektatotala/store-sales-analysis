@@ -22,7 +22,7 @@ How does store size impact sales performance and efficiency?
 - Stores.csv → dataset
 
 ## Sample Visualization
-(Graph.png)
+[Sales vs Area](Graph.png)
 
 ## Conclusion
 This project demonstrates how data analysis can help businesses optimize store performance and make better decisions.
