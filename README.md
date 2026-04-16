@@ -7,6 +7,7 @@ This project analyzes store sales data to understand how store size impacts perf
 - Larger stores generally generate higher sales
 - Some smaller stores outperform larger ones in efficiency
 - Sales per unit area is a strong performance indicator
+- Introduced a custom metric (Sales per Area) to evaluate store efficiency
 
 ## Tools Used
 - Python (Pandas)
