@@ -1,21 +1,21 @@
 # Store Sales Analysis
 
 ## Overview
-This project analyzes store sales data to understand how store size impacts sales performance.
+This project analyzes store sales data to understand how store size impacts performance and efficiency.
 
 ## Key Insights
-- Larger stores tend to have higher sales
-- Some smaller stores perform more efficiently
-- Sales per unit area is an important performance metric
+- Larger stores generally generate higher sales
+- Some smaller stores outperform larger ones in efficiency
+- Sales per unit area is a strong performance indicator
 
 ## Tools Used
 - Python (Pandas)
 - Matplotlib & Seaborn
 - Google Colab
 
-## Project Files
-- analysis.ipynb → complete analysis
-- dataset.csv → dataset used
+## Files
+- store_sales_analysis.ipynb → complete analysis
+- Stores.csv → dataset
 
 ## Conclusion
-This project highlights how data analysis can help improve business decision-making.
+This project demonstrates how data analysis can help businesses optimize store performance and make better decisions.
